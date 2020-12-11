@@ -1,6 +1,6 @@
 
 :root {
-    --primary-color: #fd961f;
+    --primary-color: #1fdcfd;
     --secondary-color: #1f83fd;
 }
 
@@ -61,7 +61,7 @@ footer {
 }
 
 .button:hover {
-    background-color: #d7780b;
+    background-color: #1fdcfd;
 }
 
 .button.delete {
